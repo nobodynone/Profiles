@@ -617,6 +617,16 @@ Rule:
 - DOMAIN-SUFFIX,nflximg.net,GlobalMedia
 - DOMAIN-SUFFIX,nflxso.net,GlobalMedia
 - DOMAIN-SUFFIX,nflxvideo.net,GlobalMedia
+- DOMAIN-SUFFIX,netflixdnstest0.com,GlobalMedia
+- DOMAIN-SUFFIX,netflixdnstest1.com,GlobalMedia
+- DOMAIN-SUFFIX,netflixdnstest2.com,GlobalMedia
+- DOMAIN-SUFFIX,netflixdnstest3.com,GlobalMedia
+- DOMAIN-SUFFIX,netflixdnstest4.com,GlobalMedia
+- DOMAIN-SUFFIX,netflixdnstest5.com,GlobalMedia
+- DOMAIN-SUFFIX,netflixdnstest6.com,GlobalMedia
+- DOMAIN-SUFFIX,netflixdnstest7.com,GlobalMedia
+- DOMAIN-SUFFIX,netflixdnstest8.com,GlobalMedia
+- DOMAIN-SUFFIX,netflixdnstest9.com,GlobalMedia
 # > niconico
 # USER-AGENT,Niconico*,GlobalMedia
 - DOMAIN-SUFFIX,dmc.nico,GlobalMedia
@@ -638,6 +648,7 @@ Rule:
 - DOMAIN-SUFFIX,twitch.tv,GlobalMedia
 - DOMAIN-SUFFIX,twitchcdn.net,GlobalMedia
 - DOMAIN-SUFFIX,ttvnw.net,GlobalMedia
+- DOMAIN-SUFFIX,jtvnw.net,GlobalMedia
 # > ViuTV
 # USER-AGENT,Viu*,GlobalMedia
 # USER-AGENT,ViuTV*,GlobalMedia
@@ -664,6 +675,7 @@ Rule:
 
 # (DNS Cache Pollution Protection)
 # > Google
+- DOMAIN-SUFFIX,ampproject.org,PROXY
 - DOMAIN-SUFFIX,appspot.com,PROXY
 - DOMAIN-SUFFIX,blogger.com,PROXY
 - DOMAIN-SUFFIX,getoutline.org,PROXY
@@ -1181,7 +1193,6 @@ Rule:
 - DOMAIN-SUFFIX,iphone4hongkong.com,PROXY
 - DOMAIN-SUFFIX,iphonetaiwan.org,PROXY
 - DOMAIN-SUFFIX,iptvbin.com,PROXY
-- DOMAIN-SUFFIX,jtvnw.net,PROXY
 - DOMAIN-SUFFIX,linksalpha.com,PROXY
 - DOMAIN-SUFFIX,manyvids.com,PROXY
 - DOMAIN-SUFFIX,myactimes.com,PROXY

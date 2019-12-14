@@ -11,6 +11,8 @@
 - [Choler](https://github.com/Choler)
 - [xream](https://github.com/xream)
 - [gkeyes](https://github.com/gkeyes)
+- [Mornwind](https://github.com/Mornwind)
+- [zhuohan](https://github.com/zhuohan)
 
 ## 许可
 
